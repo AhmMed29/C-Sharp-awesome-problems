@@ -2,9 +2,9 @@ namespace TaskTracker
 {
     class Program
     {
+        // suppose the size is 100 !
         static string[] tasksave = new string[100];
         static int taskindex = 0;
-        bool iscompleted = false;
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To My App");
