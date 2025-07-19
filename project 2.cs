@@ -83,6 +83,12 @@ namespace QuizGame
             {
                 throw new Exception("answer can't be empty");
             }
+            /* 
+               Note : we can use return like this below but try catch will not work well as
+               it check for the input if it was empty or null !
+               ==> return String.Equals(userinput, answer, StringComparison.OrdinalIgnoreCase);
+               why using this ? if the user for ex: input pAriS it will be correct !
+            */
             if(userinput == answer)
             {
                 return true;
