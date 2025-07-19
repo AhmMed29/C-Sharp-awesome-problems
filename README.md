@@ -5,4 +5,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=صلِّ على النبي;صلى الله عليه وسلم)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=صلِّ+على+النبي;صلى+الله+عليه+وسلم)](https://git.io/typing-svg)
